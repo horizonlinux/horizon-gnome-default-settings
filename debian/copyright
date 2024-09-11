@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: vanilla-gnome-default-settings
-Source: https://github.com/Vanilla-OS/vanilla-gnome-default-settings/
+Upstream-Name: horizon-gnome-default-settings
+Source: https://github.com/horizonlinux/horizon-gnome-default-settings
 
 Files: *
-Copyright: Vanilla OS Contributors <https://vanillaos.org>
+Copyright: Vanilla OS Contributors <https://vanillaos.org> forked by Horizon <https://discord.gg/5FxCm7Y8>
 License: GPL-3+
