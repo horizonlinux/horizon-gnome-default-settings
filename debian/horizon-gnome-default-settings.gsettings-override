@@ -9,14 +9,11 @@ favorite-apps = [ 'org.vanillaos.Installer.desktop', 'org.gnome.Epiphany.desktop
 apps = ['gnome-abrt.desktop', 'gnome-system-log.desktop', 'nm-connection-editor.desktop', 'org.gnome.baobab.desktop', 'org.gnome.Connections.desktop', 'org.gnome.DejaDup.desktop', 'org.gnome.Dictionary.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.eog.desktop', 'org.gnome.Evince.desktop', 'org.gnome.FileRoller.desktop', 'org.gnome.fonts.desktop', 'org.gnome.seahorse.Application.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Usage.desktop', 'vinagre.desktop', 'yelp.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'gnome-system-monitor.desktop', 'im-config.desktop', 'nvidia-settings.desktop', 'ca.desrt.dconf-editor.desktop', 'org.gnome.Console']
 
 [org.gnome.desktop.background]
-picture-uri = 'file:///usr/share/backgrounds/vanilla/petals_light.webp'
-picture-uri-dark = 'file:///usr/share/backgrounds/vanilla/petals_dark.webp'
+picture-uri = 'file:///usr/share/backgrounds/horizon/road-to-fitz-roy.webp'
+picture-uri-dark = 'file:///usr/share/backgrounds/horizon/road-to-fitz-roy.webp'
 
 [org.gnome.desktop.screensaver]
-picture-uri = 'file:///usr/share/backgrounds/vanilla/petals_light.webp'
-
-[org.gnome.desktop.sound]
-theme-name = 'freedesktop'
+picture-uri = 'file:///usr/share/backgrounds/horizon/road-to-fitz-roy.webp'
 
 [org.gnome.desktop.session]
 session-name="gnome"
@@ -28,14 +25,10 @@ automatic-timezone = true
 tap-to-click = true
 click-method = 'default'
 
-[org.gnome.eog.ui:GNOME]
-sidebar=false
-
 [org.gnome.nautilus.icon-view:GNOME]
 default-zoom-level='standard'
 
 [org.gnome.settings-daemon.plugins.power:GNOME]
 power-button-action = 'interactive'
 
-[org.gnome.software:GNOME]
-packaging-format-preference = ['flatpak']
+
