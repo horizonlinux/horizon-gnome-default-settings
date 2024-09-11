@@ -3,16 +3,19 @@
 ###################
 
 [org.gnome.desktop.background]
-picture-uri = 'file:///usr/share/backgrounds/horizon/road-to-fitz-roy.webp'
-picture-uri-dark = 'file:///usr/share/backgrounds/horizon/road-to-fitz-roy.webp'
+picture-uri = 'file:///usr/share/backgrounds/horizon/road-towards-fitz-roy.webp'
+picture-uri-dark = 'file:///usr/share/backgrounds/horizon/road-towards-fitz-roy.webp'
 
 [org.gnome.desktop.screensaver]
-picture-uri = 'file:///usr/share/backgrounds/horizon/road-to-fitz-roy.webp'
+picture-uri = 'file:///usr/share/backgrounds/horizon/road-towards-fitz-roy.webp'
 
 [org.gnome.desktop.interface]
 cursor-theme='Adwaita'
 # gtk-theme='io.elementary.stylesheet.blueberry'
 icon-theme='LookPositive'
+
+[org.gnome.desktop.wm.preferences]
+button-layout=':minimize,close'
 
 [org.gnome.shell]
 favorite-apps = [ 'org.vanillaos.Installer.desktop', 'org.gnome.Epiphany.desktop', 'org.gnome.Photos.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'yelp.desktop' ]
