@@ -11,7 +11,7 @@ picture-uri = 'file:///usr/share/backgrounds/horizon/road-towards-fitz-roy.webp'
 
 [org.gnome.desktop.interface]
 cursor-theme='Adwaita'
-# gtk-theme='io.elementary.stylesheet.blueberry'
+gtk-theme='adw-gtk3'
 icon-theme='LookPositive'
 
 [org.gnome.desktop.wm.preferences]
